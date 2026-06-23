@@ -1,0 +1,2 @@
+../Core/Src/matrix.c:69:6:matrix_init	2
+../Core/Src/matrix.c:84:6:matrix_scan	4

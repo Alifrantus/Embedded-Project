@@ -1,4 +1,0 @@
-../Core/Src/keyboard.c:28:16:modifier_bit	16	static
-../Core/Src/keyboard.c:42:6:keyboard_init	4	static
-../Core/Src/keyboard.c:46:9:keyboard_get_layer	4	static
-../Core/Src/keyboard.c:50:6:keyboard_process	48	static

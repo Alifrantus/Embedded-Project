@@ -1,0 +1,3 @@
+../Core/Src/keyboard.c:219:16:get_modifier_bit	8
+../Core/Src/keyboard.c:235:6:keyboard_init	1
+../Core/Src/keyboard.c:245:6:keyboard_task	10
